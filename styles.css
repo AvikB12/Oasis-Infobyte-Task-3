@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    position: fixed;
+    margin-top: 50px;
+    top: 50%;
+    left: 50%;
+    margin-bottom: 60px;
+    transform: translate(-50%, -50%);
+    height: 50px;
+}
+select{
+    margin-left: 25px;
+    height: 30px;
+   
+}
+input{
+    margin-left: 25px;
+    height: 30px;
+    text-align: center;
+}
+button{
+    margin-left: 25px;
+    width:75px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+div{
+    display: flex;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    font-size: 48px;
+    transform: translate(-50%, -50%);
+    text-decoration: underline;
+}
+h2{
+    /* margin-left: 230px; */
+    margin-top: 30px;
+    font-size: 40px;
+}
+h3{
+    margin-left: 12px;
+    margin-top: 46px;
+    font-size: 20px;
+
+}
